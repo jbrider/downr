@@ -13,7 +13,9 @@ The other thing I learned was that when testing your public ip address - it may 
 
 I was able to find a setting on my isp [firewall](https://secure.internode.on.net/myinternode/sys2/aclchange) settings to turn off the firewall - and will be turning it back on as soon as I don't need to have the server running rom home.
 
-Open DNS => DNS O Matic => Cloudflare
+
+![Open DNS => DNS O Matic => Cloudflare](./media/clip.jpg "Open DNS => DNS O Matic => Cloudflare")
+
 
 ## Setting up Open DNS 
 
